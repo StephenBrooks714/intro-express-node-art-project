@@ -1,0 +1,16 @@
+Github Repository for Starter Project
+run this command: git clone https://github.com/StephenBrooks714/express-node-art-project.git 
+
+mdb4 installation link for jquery
+npm i mdbootstrap
+Copy and paste this link in the browser: https://mdbootstrap.com/docs/b4/jquery/getting-started/installation/
+
+Setting up Gihtub account
+https://github.com/ 
+
+Setting up heroku account
+https://heroku.com/
+
+Downloading visual studio code editor
+https://code.visualstudio.com/
+
